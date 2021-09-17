@@ -5,7 +5,6 @@ body {
     background-color: rgb(10, 35, 39);
     background-size: cover;
   }
-  
   .wrap {
     width: 100%;
     max-width: 320px;
@@ -14,7 +13,6 @@ body {
   .profile {
     text-align: center;
     color: rgb(244,195,55);
-    margin-top: 10px;
     font-size: 25px;
   }
   .photo {
@@ -22,7 +20,7 @@ body {
     border-radius: 50%;
   }
   .profile_name {
-    padding: 20px ;
+    margin-top: 20px;
     font-weight: bold;
     display: block;
   }
@@ -53,7 +51,7 @@ body {
   }
   p{
     text-align: center;
-  color: rgb(182, 192, 207);
+  color: #D9ECF2;
   }
   .skills{
     width: 100%;
@@ -98,7 +96,7 @@ body {
   }
   .skill-bar{
     height: 8px;
-    background:rgb(70, 89, 110);
+    background:rgb(118, 133, 150);
     border-radius: 8px;
   
   }
@@ -110,5 +108,4 @@ body {
     transition: 1s linear;
     position: relative;
   }
-  
   
